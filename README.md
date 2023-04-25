@@ -23,7 +23,7 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 ## Contacto
 Si tienes alguna pregunta o si te gustaría colaborar en algún proyecto interesante, no dudes en contactarme. Puedes encontrarme en <br>
 FB: <a href="https://www.facebook.com/robertoesquiveltroncoso">Roberto Esquivel Troncoso</a><br>
-Correo electrónico: robertoesquiveltr16@gmail.com.
+Correo electrónico: robertoesquiveltr16@gmail.com.<br>
 Linkedin: <a href="https://www.linkedin.com/in/roberto-esquivel-troncoso/">Roberto Esquivel Troncoso</a><br>
 
 ¡Gracias por visitar mi perfil!
