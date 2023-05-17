@@ -13,11 +13,35 @@ Además de mi trabajo en la empresa, también he trabajado en proyectos personal
 ## Proyectos principales
 Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye una variedad de proyectos universitarios, personales y cursos prácticos que he desarrollado para compartir mi experiencia como desarrollador. Algunos de los proyectos en los que he trabajado incluyen:
 
-[Compilador en C#](https://github.com/RETBOT/Compilador): Proyecto final para la materia de Automatas 2. <br>
-[Inno_Eyes](https://github.com/RETBOT/Inno_Eyes): Bastón inteligente, para la ayuda de personas con discapacidad visual. <br>
-[TiendaWeb](https://github.com/RETBOT/TiendaWebJS): Página web, creada para la materia de programación web Proyecto Final. <br>
-[Django](https://github.com/RETBOT/Django-X-Linux): Curso Practico de Django desde Sistemas Operativos GNU Linux. <br>
-[Escuela 🏫](https://github.com/RETBOT/Escuela):  Curso Practico ASP.NET Core MVC C♯ 
+### Compilador en C#
+- Repositorio: [Compilador en C#](https://github.com/RETBOT/Compilador)
+- Descripción: Proyecto final para la materia de Automatas 2.
+- Tecnologías utilizadas: C#
+
+### Inno_Eyes
+- Repositorio: [Inno_Eyes](https://github.com/RETBOT/Inno_Eyes)
+- Descripción: Bastón inteligente para ayudar a personas con discapacidad visual.
+- Tecnologías utilizadas: [Menciona las tecnologías que has utilizado, por ejemplo: Arduino, sensores, algoritmos de visión por computadora, etc.]
+
+### Pagina Web RETBOT
+- Repositorio: [Pagina Web RETBOT](https://github.com/RETBOT/pagweb-retbot)
+- Descripción: Mi primer proyecto desarrollado con el stack MERN (MongoDB, Express.js, React.js y Node.js).
+- Tecnologías utilizadas: MERN stack
+- 
+### Pokedex API
+- Repositorio: [Pokedex API](https://github.com/RETBOT/Pokedex_Api)
+- Descripción: API desarrollada desde cero para una Pokédex.
+- Tecnologías utilizadas: [Menciona las tecnologías utilizadas, por ejemplo: Node.js, Express.js, MongoDB, etc.]
+
+### Django
+- Repositorio: [Django](https://github.com/RETBOT/Django-X-Linux)
+- Descripción: Curso práctico de Django desde sistemas operativos GNU/Linux.
+- Tecnologías utilizadas: Django, GNU/Linux
+
+### Escuela
+- Repositorio: [Escuela](https://github.com/RETBOT/Escuela)
+- Descripción: Curso práctico de ASP.NET Core MVC con C♯.
+- Tecnologías utilizadas: ASP.NET Core MVC, C♯
 
 
 ## Contacto
@@ -28,6 +52,6 @@ Linkedin: <a href="https://www.linkedin.com/in/roberto-esquivel-troncoso/">Rober
 Twitter:  <a href="https://twitter.com/RobertoEsqTr">@RobertoEsqTr</a><br>
 Instagram: <a href="https://www.instagram.com/robertoesquiveltroncoso/">@robertoesquiveltroncoso</a><br> 
 
-¡Gracias por visitar mi perfil!
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia sobre alguno de estos proyectos, no dudes en contactarme.
 
 <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/MERN.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/bootstrap.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/django.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/html5-css3.png" alt="img" width="100" height="50"><img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/php.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/javascript.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/c%2B%2B.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/csharp.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/java.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/python.png" alt="img" width="100" height="50"> <img src="https://github.com/RETBOT/RETBOT/blob/main/Imgs/linux-macos-windows.png" alt="img" width="100" height="50">
