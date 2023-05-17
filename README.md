@@ -31,7 +31,7 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 ### Pokedex API
 - Repositorio: [Pokedex API](https://github.com/RETBOT/Pokedex_Api)
 - Descripción: API desarrollada desde cero para una Pokédex.
-- Tecnologías utilizadas: [Menciona las tecnologías utilizadas, por ejemplo: Node.js, Express.js, MongoDB, etc.]
+- Tecnologías utilizadas: Node.js, Express.js, MongoDB, C#
 
 ### Django
 - Repositorio: [Django](https://github.com/RETBOT/Django-X-Linux)
