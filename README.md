@@ -26,7 +26,7 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Tecnologías utilizadas: [Menciona las tecnologías que has utilizado, por ejemplo: Arduino, sensores, algoritmos de visión por computadora, etc.]
 
 ### Pagina Web RETBOT
-- Repositorio: [Pagina Web RETBOT](https://github.com/RETBOT/pagweb-retbot)
+- Repositorio: [Pagina Web RETBOT](https://github.com/RETBOT/Web-Stack-MERN)
 - Descripción: Mi primer proyecto desarrollado con el stack MERN (MongoDB, Express.js, React.js y Node.js).
 - Tecnologías utilizadas: MERN stack
 - 
