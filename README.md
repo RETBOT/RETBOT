@@ -12,7 +12,8 @@ Estoy emocionado por seguir adquiriendo conocimientos y aplicar mis habilidades 
 Actualmente me encuentro trabajando como desarrollador en la empresa API Inmobiliaría & Asesores S.A. de C.V. En este puesto, he tenido la oportunidad de trabajar en proyectos de gran envergadura, lo que me ha permitido desarrollar mis habilidades de programación y trabajar en equipo con otros desarrolladores talentosos.
 Además de mi trabajo en la empresa, también he trabajado en proyectos personales y colaborado en proyectos de código abierto. A través de estas experiencias, he aprendido a trabajar en diferentes entornos de programación y a adaptarme a diferentes tecnologías y herramientas.
 
-<center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETBOT&layout=compact&theme=dark)</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETBOT&layout=donut-vertical)](https://github.com/RETBOT/github-readme-stats)
+
 
 ## Proyectos principales
 Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye una variedad de proyectos universitarios, personales y cursos prácticos que he desarrollado para compartir mi experiencia como desarrollador. Algunos de los proyectos en los que he trabajado incluyen:
