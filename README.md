@@ -14,6 +14,8 @@ Además de mi trabajo en la empresa, también he trabajado en proyectos personal
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETBOT&layout=donut-vertical&theme=dark)](https://github.com/RETBOT/github-readme-stats)
 
+![RETBOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=RETBOT&show_icons=true&theme=dark)
+
 ## Proyectos principales
 Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye una variedad de proyectos universitarios, personales y cursos prácticos que he desarrollado para compartir mi experiencia como desarrollador. Algunos de los proyectos en los que he trabajado incluyen:
 
