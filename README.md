@@ -37,6 +37,11 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Descripción: API desarrollada desde cero para una Pokédex.
 - Tecnologías utilizadas: Node.js, Express.js, MongoDB, C#
 
+### ChatDynamix
+- Repositorio: [ChatDynamix](https://github.com/RETBOT/ChatDynamix)
+- Descripción: Este repositorio es un proyecto de desarrollo de un chat utilizando la tecnología de OpenAI y GPT4All. 
+- Tecnologías utilizadas: Python
+
 ### Django
 - Repositorio: [Django](https://github.com/RETBOT/Django-X-Linux)
 - Descripción: Curso práctico de Django desde sistemas operativos GNU/Linux.
@@ -46,6 +51,7 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Repositorio: [Escuela](https://github.com/RETBOT/Escuela)
 - Descripción: Curso práctico de ASP.NET Core MVC con C♯.
 - Tecnologías utilizadas: ASP.NET Core MVC, C♯
+
 
 
 ## Contacto
