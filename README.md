@@ -18,7 +18,7 @@ Además de mi trabajo en la empresa, también he trabajado en proyectos personal
 Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye una variedad de proyectos universitarios, personales y cursos prácticos que he desarrollado para compartir mi experiencia como desarrollador. Algunos de los proyectos en los que he trabajado incluyen:
 
 ### CV Roberto Esquivel Troncoso
-- Repositorio: [retbot_portafolio]([https://github.com/RETBOT/Web-Stack-MERN](https://github.com/RETBOT/retbot_portafolio))
+- Repositorio: [retbot_portafolio](https://github.com/RETBOT/retbot_portafolio)
 - Descripción: En este repositorio, encontrarás mi impresionante portafolio de Desarrollador 3D, donde utilizo Three.js y React.js para crear experiencias interactivas y visualmente impactantes
 - Tecnologías utilizadas: MERN stack, Three.js
 
