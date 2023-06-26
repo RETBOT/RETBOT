@@ -17,6 +17,11 @@ Además de mi trabajo en la empresa, también he trabajado en proyectos personal
 ## Proyectos principales
 Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye una variedad de proyectos universitarios, personales y cursos prácticos que he desarrollado para compartir mi experiencia como desarrollador. Algunos de los proyectos en los que he trabajado incluyen:
 
+### Pagina Web RETBOT
+- Repositorio: [CV Roberto Esquivel Troncoso]([https://github.com/RETBOT/Web-Stack-MERN](https://github.com/RETBOT/retbot_portafolio))
+- Descripción: En este repositorio, encontrarás mi impresionante portafolio de Desarrollador 3D, donde utilizo Three.js y React.js para crear experiencias interactivas y visualmente impactantes
+- Tecnologías utilizadas: MERN stack, Three.js
+
 ### Compilador en C#
 - Repositorio: [Compilador en C#](https://github.com/RETBOT/Compilador)
 - Descripción: Proyecto final para la materia de Automatas 2.
@@ -31,7 +36,7 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Repositorio: [Pagina Web RETBOT](https://github.com/RETBOT/Web-Stack-MERN)
 - Descripción: Mi primer proyecto desarrollado con el stack MERN (MongoDB, Express.js, React.js y Node.js).
 - Tecnologías utilizadas: MERN stack
-- 
+
 ### Pokedex API
 - Repositorio: [Pokedex API](https://github.com/RETBOT/Pokedex_Api)
 - Descripción: API desarrollada desde cero para una Pokédex.
