@@ -43,7 +43,7 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Tecnologías utilizadas: Node.js, Express.js, MongoDB, C#
 
 ### Pokedex-PHP
-- Repo: Pokedex-PHP
+- Repo: [Pokedex-PHP](https://github.com/RETBOT/Pokedex-PHP)
 - Descripción: Proyecto web que usa PHP, Bootstrap y MySQL para acceder a la API Pokedex y obtener datos detallados de Pokémon.
 - Tecnologías: PHP, Bootstrap, MySQL.
 
