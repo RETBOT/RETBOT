@@ -1,5 +1,5 @@
 # Hola, soy RETBOT
-Soy un estudiante de ingeniería en sistemas computacionales con una pasión por la programación y la resolución de problemas utilizando la tecnología. Me emociona enfrentar nuevos desafíos y encontrar formas creativas de aplicar mis habilidades de programación en proyectos interesantes.
+Desarrollador Web Jr con una pasión por la programación y la resolución de problemas utilizando la tecnología. Me emociona enfrentar nuevos desafíos y encontrar formas creativas de aplicar mis habilidades de programación en proyectos interesantes.
 
 ## Sobre mí
 Soy un desarrollador de software con experiencia en programación en C#, utilizando el patrón de diseño MVC y el framework .Net Core. Además, tengo amplia experiencia en el desarrollo de aplicaciones web y en particular en la creación de scrapers.
@@ -42,6 +42,11 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Descripción: API desarrollada desde cero para una Pokédex.
 - Tecnologías utilizadas: Node.js, Express.js, MongoDB, C#
 
+### Pokedex-PHP
+- Repo: Pokedex-PHP
+- Descripción: Proyecto web que usa PHP, Bootstrap y MySQL para acceder a la API Pokedex y obtener datos detallados de Pokémon.
+- Tecnologías: PHP, Bootstrap, MySQL.
+
 ### ChatDynamix
 - Repositorio: [ChatDynamix](https://github.com/RETBOT/ChatDynamix)
 - Descripción: Este repositorio es un proyecto de desarrollo de un chat utilizando la tecnología de OpenAI y GPT4All. 
@@ -56,8 +61,6 @@ Puedes encontrar mis principales proyectos en mi perfil de GitHub, que incluye u
 - Repositorio: [Escuela](https://github.com/RETBOT/Escuela)
 - Descripción: Curso práctico de ASP.NET Core MVC con C♯.
 - Tecnologías utilizadas: ASP.NET Core MVC, C♯
-
-
 
 ## Contacto
 Si tienes alguna pregunta o si te gustaría colaborar en algún proyecto interesante, no dudes en contactarme. Puedes encontrarme en <br>
